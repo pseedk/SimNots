@@ -45,6 +45,7 @@
             android:layout_marginBottom="24dp"
             android:text="Delete"
             android:textAllCaps="false"
+            app:backgroundTint="@color/grey"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
 
@@ -56,6 +57,7 @@
             android:layout_marginEnd="24dp"
             android:layout_marginBottom="24dp"
             android:text="Back"
+            app:backgroundTint="@color/grey"
             android:textAllCaps="false"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
