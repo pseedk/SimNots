@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/black"
-        tools:context=".screens.addnote.AddNoteFragment">
+        tools:context="com.pseedk.simnots.screens.addnote.AddNoteFragment">
 
         <TextView
             android:id="@+id/textView"

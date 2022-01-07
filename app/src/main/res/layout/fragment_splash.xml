@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".screens.splash.SplashFragment">
+    tools:context="com.pseedk.simnots.screens.splash.SplashFragment">
 
 
     <TextView
